@@ -2,4 +2,3 @@
 
 # copyleft
 
-# challenge
